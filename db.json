@@ -1,0 +1,22 @@
+{
+    "notes": [
+      {
+        "id": 1,
+        "heading": "Memahami HTML (Hypertext Markup Language)",
+        "content": "Pertama, kalian yang mau bejalar menjadi front end developer, biasanya dimulai dengan mempelajari bahasa markah atau HTML. HTML yaitu bahasa markah standar yang digunakan untuk merancang dokumen untuk ditampilkan di peramban internet, atau halaman yang biasa kita lihat di situs web melalui mesin pencari (browser) . Namun perlu kalian ketahui bahwa HTML ini bukanlah termasuk bahasa pemrograman karena tidak mendukung untuk melakukan perulangan atau pengkondisian seperti bahasa pemrograman lain. HTML ini biasanya hanya digunakan untuk membuat suatu situs web yang bersifat statis atau tidak ada proses pengolahan data pada halaman web tersebut.",
+        "date": "date"
+      },
+      {
+        "id": 2,
+        "heading": "Memahami teknologi CSS (Cascading Style Sheets)",
+        "content": "CSS yaitu teknologi yang digunakan untuk mempercantik atau memperindah tampilan situs web. Dengan CSS kalian bisa mengatur situs web menjadi lebih bervariasi, misalnya merubah jenis hurufnya, warnanya, ukuran huruf dan tata letak dari halaman situs web dan masih banyak hal lain yang dapat dilakukan menggunakan teknologi CSS.",
+        "date": "date"
+      },
+      {
+        "id": 3,
+        "heading": "Mempelajari Bahasa Pemrogramman JavaScript",
+        "content": "Untuk membuat halaman situs web menjadi terlihat dinamis, seperti saat meng klik sebuah tombol akan muncul suatu pesan dalam bentuk pop-up, atau membuat suatu tulisan yang berjalan secara horizontal. Maka untuk melakukan hal tersebut kalian perlu mempelajari suatu bahasa pemrogramman yang disebut JavaScript. Javascript merupakan bahasa yang sejak awal dibuat bertujuan untuk membuat halaman web menjadi lebih dinamis. Javascript sangat penting untuk dipelajari dan dipahami bagi kalian yang ingin menjadi seorang front-end developer. Dengan memahami bahasa javascript ini merupakan modal untuk melangkah ke tahap selanjutkan yaitu menggunakan library atau framework untuk membangun suatu situs web.",
+        "date": "date"
+      }
+    ]
+  }
